@@ -7,7 +7,7 @@ This project is an Automatic Number Plate Recognition (ANPR) system built using 
 - **License Plate Detection**: Uses image processing techniques to locate and crop number plates from vehicle images.
 - **Character Recognition**: Utilizes OCR (Optical Character Recognition) with Pytesseract to interpret text on license plates.
 - **High Accuracy**: Achieved a recognition rate of over 95%, even with varying image quality and lighting conditions.
-- **Real-Time Processing**: Capable of processing real-time video feeds for dynamic vehicle tracking and recognition.
+- **Real-Time Images**: Capable of processing real images.
 
 ## Installation
 
